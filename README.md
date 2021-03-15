@@ -41,7 +41,6 @@ public RestTemplate getRestTemplate(){
 ```
 //启动类上需要的开启注解
 ```java
-@RibbonClient(name = "springcloud-provider-dept", configuration = StriveRule.class)
 @SpringBootApplication
 @EnableEurekaClient
 @RibbonClient(name = "springcloud-provider-dept", configuration = StriveRule.class)
