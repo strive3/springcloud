@@ -9,6 +9,7 @@
         <module name="springcloud-provider-dept-8001" />
         <module name="springcloud-provider-dept-8002" />
         <module name="springcloud-consumer-dept-feign80" />
+        <module name="springcloud-provider-dept-histrix-8004" />
         <module name="springcloud-api" />
         <module name="springcloud-consumer-dept-80" />
         <module name="springcloud-provider-dept-8003" />
