@@ -25,4 +25,7 @@ public class Dept implements Serializable {
     public Dept(String dept_name){
         this.dept_name = dept_name;
     }
+
+
+
 }
